@@ -20,9 +20,9 @@ Model bada zachowania strategiczne agentów w sieci, którzy decydują się na p
 
 ##  Struktura repozytorium
 
-* `notebooks/` – Główny notatnik Jupyter zawierający pełny kod symulacji, opisy analityczne oraz wizualizacje.
-* `src/` *(opcjonalnie)* – Moduły z funkcjami pomocniczymi (jeśli kod został wydzielony do plików `.py`).
+* `gry_szczepionkowe.ipynb` – Główny notatnik Jupyter zawierający pełny kod symulacji, opisy analityczne oraz wizualizacje.
 * `README.md` – Dokumentacja projektu.
+* `Gry_Szczepionkowe_na_Sieciach_Społecznych.pdf` - Artykuł i matematyka
 
 ---
 
